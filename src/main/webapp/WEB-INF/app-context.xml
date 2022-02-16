@@ -26,8 +26,8 @@
 	<bean id="oracleDataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 		<property name="driverClassName" value="oracle.jdbc.driver.OracleDriver" />
 		<property name="url" value="jdbc:oracle:thin:@oracle.fiap.com.br:1521:orcl" />
-		<property name="username" value="pf0954" />
-		<property name="password" value="fiap" />
+		<property name="username" value="" />
+		<property name="password" value="" />
 	</bean>
 
 	<bean id="entityManagerFactory" class="org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean">
