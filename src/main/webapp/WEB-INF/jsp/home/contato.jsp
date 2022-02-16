@@ -6,5 +6,5 @@
 
 
 <tags:template title="Cadastro de Estacionamento">
-	<h1>Olá Mundo!</h1>
+	<h1>Contato</h1>
 </tags:template>
